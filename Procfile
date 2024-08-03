@@ -1,0 +1,1 @@
+wed: gunicorn django_deploit.wsgi
